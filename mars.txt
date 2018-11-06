@@ -1,3 +1,4 @@
 Cold and dry but everything is fine.
 Another line.
 This time I added a third line.
+I decided to add a fourth line.
